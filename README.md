@@ -32,4 +32,6 @@ I still watch cartoons on Sunday mornings.
 ### TL;DR
 Cartoons = Life
 
+![Les hobbits m'applaudissent oui oui](http://gph.is/1a6ZNDb.gif)
+
 << [Previous](https://github.com/AdrienCallewaert/becodeadriencallewaert/blob/master/CallewaertAdrien.md) || Cherman Natalia || [Next](https://shinyami.github.io/Challenge-Markdown/) >>
