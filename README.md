@@ -17,7 +17,7 @@ Pineapple on pizza | Never tried
 ## Hobbies
 * Photography
 * Movies
-    * Lord of the Ring \(Trilogy\)
+    * Lord of the Rings \(Trilogy\)
     * I origins
 * Reading
 * Cooking
