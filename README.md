@@ -11,7 +11,7 @@ First Header | Second Header
 Birthday | 08/09/1996
 Gender | Female
 Favorite Color | Navy Blue
-Favorite Food | Japanese Food :heart_eyes:
+Favorite Food | Japanese Food 
 Pineapple on pizza | Never tried
 
 ## Hobbies
