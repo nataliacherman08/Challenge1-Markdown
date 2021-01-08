@@ -32,5 +32,6 @@ I still watch cartoons on Sunday mornings.
 ### TL;DR
 Cartoons = Life
 
+![Une photo de moi](https://media.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif)
 
 << [Previous](https://github.com/AdrienCallewaert/becodeadriencallewaert/blob/master/CallewaertAdrien.md) || Cherman Natalia || [Next](https://shinyami.github.io/Challenge-Markdown/) >>
