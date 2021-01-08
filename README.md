@@ -12,17 +12,17 @@ Birthday | 08/09/1996
 Gender | Female
 Favorite Color | Navy Blue
 Favorite Food | Japanese Food :heart_eyes:
-Pineapple on pizza | - [x] Never tried - [ ] Yes |
+Pineapple on pizza | Never tried
 
 ## Hobbies
 * Photography
 * Movies
     * Lord of the Ring \(Trilogy\)
     * I origins
-* Reading :book:
+* Reading
 * Cooking
-* Travel :earth_americas:
-* Video Games :video_game:
+* Travel 
+* Video Games
 
 ## You can always count on me when...
 You need help or explanations about something I understand. It's all about patience and understanding.
