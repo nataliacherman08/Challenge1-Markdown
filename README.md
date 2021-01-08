@@ -12,7 +12,7 @@ Birthday | 08/09/1996
 Gender | Female
 Favorite Color | Navy Blue
 Favorite Food | Japanese Food :heart_eyes:
-Pineapple on pizza | <ul><li> - [x] Never tried </li> <li> - [ ] Yes </li></ul>
+Pineapple on pizza | - [x] Never tried - [ ] Yes |
 
 ## Hobbies
 * Photography
