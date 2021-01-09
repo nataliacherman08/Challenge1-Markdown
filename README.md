@@ -6,7 +6,7 @@
 
 ## I like Tolkien and Lovecraft, now let's try to take over the world Pinky !
 
-First Header | Second Header
+Questions | Answers
 ------------ | -------------
 Birthday | 08/09/1996
 Gender | Female
