@@ -34,4 +34,4 @@ Cartoons = Life
 
 ![Les hobbits me congratulent oui oui](https://media.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif)
 
-<< [Previous](https://github.com/AdrienCallewaert/becodeadriencallewaert/blob/master/CallewaertAdrien.md) || Cherman Natalia || [Next](https://shinyami.github.io/Challenge-Markdown/) >>
+<< [Previous](https://adriencallewaert.github.io/challenge-markdown/) || Cherman Natalia || [Next](https://shinyami.github.io/Challenge-Markdown/) >>
